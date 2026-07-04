@@ -1,3 +1,16 @@
 title: CoE-BIRD Project Gallery
 description: Robotics research and student projects at IIT Delhi
-theme: jekyll-theme-cayman
+
+theme: just-the-docs
+
+color_scheme: light
+
+search_enabled: true
+
+heading_anchors: true
+
+aux_links:
+  "GitHub Organization":
+    - "https://github.com/iitd-bird-robotics"
+
+footer_content: "© CoE-BIRD, IIT Delhi"
